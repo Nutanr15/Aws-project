@@ -61,6 +61,7 @@ Allows internet connectivity for public-facing resources.
 Allows inbound HTTP (80) and SSH (22).
 
 #### **Step 4: Launch EC2 Instances**
+![EC2 Instance](images/EC2-Instance.png)
 - **Server 1:** Runs `userdata.sh`
 - **Server 2:** Runs `userdata1.sh`
 

@@ -1,6 +1,6 @@
 # AWS Infrastructure with Terraform – VPC, EC2, and Load Balancer
 
-![Architecture Diagram](images/aws-terraform-architecture.png)  
+![Architecture Diagram](images/aws-terraform-architecture.jpg)  
 *Figure 1: Overall architecture of the deployed AWS infrastructure using Terraform. This includes a VPC, two public subnets in different Availability Zones, EC2 instances (each with unique user data scripts), an Application Load Balancer, and an S3 bucket.*
 
 ---

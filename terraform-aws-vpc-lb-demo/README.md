@@ -54,8 +54,7 @@ The setup demonstrates **real-time load balancing**: when the ALB DNS is accesse
 ![VPC and Subnets](images/vpc-subnets.png)  
 Public subnets in different AZs ensure high availability.
 
-#### **Step 2: Create Internet Gateway & Route Table**
-![Internet Gateway](images/internet-gateway.png)  
+#### **Step 2: Create Internet Gateway & Route Table**  
 Allows internet connectivity for public-facing resources.
 
 #### **Step 3: Create Security Group**
